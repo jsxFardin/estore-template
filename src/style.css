@@ -1,0 +1,241 @@
+/* Hallmark · shape: app screen · genre: modern-minimal · theme: brand (by request: match the herlan.com reference layout) · redesign: polish
+ * paper: oklch(0.97 0 0) · accent: oklch(0.6 0.24 25) · display: Inter · body: Inter
+ * nav: kept (red header with search row, mega menu, mobile drawer and tab bar) · signature: kept (three-card promo slider over the catalogue) · states: hover, active, focus-visible, disabled, empty, loading
+ * axes: light/grotesk-sans/warm · posture: committed · contrast: pass · v2.0.0 */
+/* Hallmark · pre-emit critique: P3 H4 E3 S4 R4 V3 · weakest: imagery density, kept the reference proportions and let product photography carry the page */
+@import 'tailwindcss';
+
+@theme {
+  --font-sans: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+
+  /* Brand palette – change these to re-skin the storefront. */
+  --color-brand: #e4002b;
+  --color-brand-600: #c40025;
+  --color-brand-section: #e5002b;
+  --color-accent: #eb161e;
+  --color-promo: #0a805d;
+  --color-promo-highlight: #ffcc00;
+
+  --color-page: #f6f6f6;
+  --color-ink: #222222;
+  --color-body: #444444;
+  --color-muted: #6b7280;
+  --color-line: #d6d9df;
+  --color-tile: #f3f3f3;
+  --color-badge: #ffe4e4;
+  --color-badge-text: #e82649;
+  --color-footer: #222222;
+  --color-footer-line: #454545;
+  --color-footer-text: #d8dbe1;
+
+  /* Secondary tones used by chips, cards and overlays. */
+  --color-subtle: #565656;
+  --color-pill: #1e1e1e;
+  --color-chip-green-bg: #e9fbf4;
+  --color-chip-green: #08a77a;
+  --color-chip-purple-bg: #f5efff;
+  --color-chip-purple: #8c42f5;
+  --color-chip-blue-bg: #edf8ff;
+  --color-chip-blue: #1298e8;
+  --color-chip-orange-bg: #fff6e5;
+  --color-chip-orange: #f59e0b;
+  --color-chip-text: #17202b;
+  --color-tile-faint: #f9f9f9;
+  --color-dot: #d0d0d0;
+  --color-circle: #ededed;
+  --color-menu-line: #e5e7eb;
+  --color-menu-label: #555555;
+  --color-price: #1a1a1a;
+  --color-price-old: #4b4b4b;
+  --color-auth-ink: #1a1a2e;
+  --color-footer-input-line: #cfd0d4;
+  --color-footer-placeholder: #bfc2c8;
+  --color-footer-btn-text: #202226;
+  --color-stock: #15803d;
+  --color-buy: #ffd34d;
+  --color-buy-text: #1a1a1a;
+  --color-rating: #f5a623;
+
+  --background-image-brand-glow: radial-gradient(circle at 20% 100%, rgb(255 255 255 / 0.14), transparent 26%), radial-gradient(circle at 85% 100%, rgb(255 255 255 / 0.12), transparent 24%);
+
+  --shadow-card: 0 1px 3px 0 rgb(0 0 0 / 0.06);
+  --shadow-float: 0 2px 10px 0 rgb(0 0 0 / 0.12);
+  --radius-card: 6px;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+    overflow-x: clip;
+  }
+  body {
+    @apply bg-page text-body font-sans text-sm antialiased;
+    line-height: 1.5;
+    overflow-x: clip;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+  h1, h2, h3, h4 {
+    @apply text-ink;
+    overflow-wrap: break-word;
+    min-width: 0;
+    text-wrap: balance;
+  }
+  button:active:not(:disabled),
+  [role='button']:active {
+    transform: scale(0.98);
+  }
+  button:disabled,
+  [aria-disabled='true'] {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+  img {
+    @apply max-w-full;
+  }
+  button, [role='button'] {
+    cursor: pointer;
+  }
+  :focus-visible {
+    outline: 2px solid var(--color-brand);
+    outline-offset: 2px;
+  }
+  /* Browser surfaces take the palette too. */
+  ::selection {
+    background: var(--color-brand);
+    color: white;
+  }
+  input,
+  textarea {
+    caret-color: var(--color-brand);
+    accent-color: var(--color-brand);
+  }
+  a {
+    text-underline-offset: 3px;
+  }
+  * {
+    scrollbar-color: var(--color-line) transparent;
+    scrollbar-width: thin;
+  }
+  img {
+    background-color: var(--color-tile-faint);
+  }
+  img[src$='.svg'],
+  img[src$='.png'] {
+    background-color: transparent;
+  }
+}
+
+@layer components {
+  /* 1190px content column, same as the reference layout. */
+  .container-site {
+    @apply mx-auto w-full max-w-[1222px] px-2 sm:px-4;
+  }
+  #app {
+    @apply flex min-h-dvh flex-col;
+  }
+  #app > main {
+    @apply flex-1;
+  }
+  .section-title {
+    @apply text-[20.8px] font-semibold leading-tight text-ink;
+  }
+  .view-all {
+    @apply text-[13.6px] underline underline-offset-4 decoration-1 hover:no-underline;
+  }
+  .snap-track {
+    @apply flex snap-x snap-mandatory overflow-x-auto overscroll-x-contain;
+    scroll-padding-inline: 0;
+    scrollbar-width: none;
+  }
+  .snap-track::-webkit-scrollbar {
+    display: none;
+  }
+  .snap-track > * {
+    @apply shrink-0 snap-start;
+  }
+  /* Slide width presets (gap is 10px). */
+  .slide-product { width: calc((100% - 20px) / 2.5); }
+  .slide-hero { width: calc((100% - 10px) / 1.7); }
+  .slide-group { width: calc((100% - 20px) / 2.4); }
+  @media (min-width: 640px) {
+    .slide-product { width: calc((100% - 20px) / 3); }
+    .slide-hero { width: calc((100% - 10px) / 2); }
+    .slide-group { width: calc((100% - 20px) / 3); }
+  }
+  @media (min-width: 768px) {
+    .slide-product { width: calc((100% - 30px) / 4); }
+    .slide-hero { width: calc((100% - 20px) / 2.3); }
+    .slide-group { width: calc((100% - 30px) / 4); }
+  }
+  @media (min-width: 1024px) {
+    .slide-product { width: calc((100% - 40px) / 5); }
+    .slide-hero { width: calc((100% - 20px) / 2.74); }
+    .slide-group { width: calc((100% - 40px) / 5); }
+  }
+  /* Horizontal-scrolling grids with a fixed number of visible columns. */
+  .cat-grid { grid-auto-columns: 20%; }
+  .cat-grid-8 { grid-auto-columns: 25%; }
+  .brand-grid { grid-auto-columns: calc((100% - 30px) / 4); }
+  @media (min-width: 768px) {
+    .cat-grid { grid-auto-columns: calc(100% / 8); }
+    .cat-grid-8 { grid-auto-columns: calc(100% / 8); }
+    .brand-grid { grid-auto-columns: calc((100% - 50px) / 6); }
+  }
+  @media (min-width: 1024px) {
+    .cat-grid { grid-auto-columns: calc(100% / 12); }
+    .cat-grid-8 { grid-auto-columns: calc(100% / 8); }
+    .brand-grid { grid-auto-columns: calc((100% - 70px) / 8); }
+  }
+  .icon-btn {
+    @apply inline-flex items-center justify-center rounded-full transition-colors;
+  }
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-md bg-brand px-5 py-2.5 text-sm font-semibold whitespace-nowrap text-white transition-colors hover:bg-brand-600;
+  }
+  .btn-buy {
+    @apply inline-flex items-center justify-center gap-2 rounded-md bg-buy px-5 py-2.5 text-[15px] font-semibold whitespace-nowrap text-buy-text transition-colors hover:brightness-95;
+  }
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-2 rounded-md border border-ink px-5 py-2.5 text-sm font-semibold whitespace-nowrap text-ink transition-colors hover:bg-ink hover:text-white;
+  }
+  .input {
+    @apply w-full rounded-md border border-line bg-white px-3 py-2 text-sm text-ink placeholder:text-muted focus:border-brand focus:outline-none;
+  }
+}
+
+/* Display heads never overflow their column (also set in @layer base; repeated here for linters that skip layers). */
+h1,
+h2 {
+  overflow-wrap: break-word;
+  min-width: 0;
+}
+
+@utility no-scrollbar {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes slide-up {
+  from { transform: translateY(12px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+.animate-fade-in { animation: fade-in 0.2s ease-out both; }
+.animate-slide-up { animation: slide-up 0.25s ease-out both; }

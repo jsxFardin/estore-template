@@ -1,0 +1,1883 @@
+{
+ "hero": [
+  {
+   "href": "https://www.herlan.com/product-tag/lily-body-lotion-bogo/",
+   "title": "Lily Body Lotion BOGO",
+   "subtitle": "Buy 1 and get 1 Free",
+   "image": "/images/banners/promo-lily-body-lotion-bogo.webp"
+  },
+  {
+   "href": "https://www.herlan.com/product-tag/nior-buy-1-get-1-free/",
+   "title": "NIOR Buy 1 Get 1 Free",
+   "subtitle": "Offer on Red Carpet Foundation and Concealer with free Liquid Eyeliner",
+   "image": "/images/banners/promo-nior-buy-1-get-1-free.webp"
+  },
+  {
+   "href": "https://www.herlan.com/product-tag/nior50/",
+   "title": "Glow More , Pay Less",
+   "subtitle": "NIOR Facewash 50% Off",
+   "image": "/images/banners/promo-glow-more-pay-less.webp"
+  },
+  {
+   "href": "https://www.herlan.com/product-tag/3-way-series/",
+   "title": "One Product. Three Ways.",
+   "subtitle": "Designed to enhance your beauty in more ways than one.",
+   "image": "/images/banners/promo-one-product-three-ways.jpeg"
+  },
+  {
+   "href": "https://www.herlan.com/brand/lily/?product-cat=face-wash",
+   "title": "Glow Begins with Clean Skin",
+   "subtitle": "An easy daily face wash routine made for fresh, healthy-looking skin.",
+   "image": "/images/banners/promo-glow-begins-with-clean-skin.webp"
+  },
+  {
+   "href": "https://www.herlan.com/product-tag/serum-soap/",
+   "title": "Serum Enriched Formula",
+   "subtitle": "With Shea Butter , Vitamin C & E",
+   "image": "/images/banners/promo-serum-enriched-formula.jpeg"
+  }
+ ],
+ "banners": [
+  {
+   "href": "https://www.herlan.com/product-tag/nior-puja-combo-2026/",
+   "alt": "Puja Combo__1280x400",
+   "image": "/images/banners/campaign-puja-combo-1280x400.webp"
+  }
+ ],
+ "groups": [
+  {
+   "title": "Facewash & Cleanser",
+   "href": "https://www.herlan.com/product-tag/facewash/",
+   "items": [
+    {
+     "alt": "Nior Dreamy Glow Brightening Cleansing Foam 120ml",
+     "image": "/images/groups/facewash-cleanser-1.jpg"
+    },
+    {
+     "alt": "Nior Dreamy Glow Brightening Cleansing Foam 120ml",
+     "image": "/images/groups/facewash-cleanser-1.jpg"
+    },
+    {
+     "alt": "Nior Dewy Fresh Goat Milk Facewash 100ml",
+     "image": "/images/groups/facewash-cleanser-3.webp"
+    },
+    {
+     "alt": "Nior Dewy Fresh Goat Milk Facewash 100ml",
+     "image": "/images/groups/facewash-cleanser-3.webp"
+    },
+    {
+     "alt": "Dermo-U Refreshing Face Wash 180ml",
+     "image": "/images/groups/facewash-cleanser-5.webp"
+    },
+    {
+     "alt": "Dermo-U Refreshing Face Wash 180ml",
+     "image": "/images/groups/facewash-cleanser-5.webp"
+    },
+    {
+     "alt": "NIOR Deep Clean Gel Face Wash Seaweed 100ml",
+     "image": "/images/groups/facewash-cleanser-7.webp"
+    },
+    {
+     "alt": "NIOR Deep Clean Gel Face Wash Seaweed 100ml",
+     "image": "/images/groups/facewash-cleanser-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Moisturizer",
+   "href": "https://www.herlan.com/product-tag/moisturizer/",
+   "items": [
+    {
+     "alt": "Dermo-U Moisture Boost Cream 40gm",
+     "image": "/images/groups/moisturizer-1.webp"
+    },
+    {
+     "alt": "Dermo-U Moisture Boost Cream 40gm",
+     "image": "/images/groups/moisturizer-1.webp"
+    },
+    {
+     "alt": "Body N Beard Face & Beard Moisturizer 50ml",
+     "image": "/images/groups/moisturizer-3.webp"
+    },
+    {
+     "alt": "Body N Beard Face & Beard Moisturizer 50ml",
+     "image": "/images/groups/moisturizer-3.webp"
+    },
+    {
+     "alt": "Body N Beard Oil Control Gel Moisturizer 50ml",
+     "image": "/images/groups/moisturizer-5.webp"
+    },
+    {
+     "alt": "Body N Beard Oil Control Gel Moisturizer 50ml",
+     "image": "/images/groups/moisturizer-5.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Day Cream SPF 30 50gm",
+     "image": "/images/groups/moisturizer-7.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Day Cream SPF 30 50gm",
+     "image": "/images/groups/moisturizer-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Gift For Him",
+   "href": "https://www.herlan.com/product-tag/giftforhim/",
+   "items": [
+    {
+     "alt": "Acnol White shield Men Bodywash 250 ml",
+     "image": "/images/groups/gift-for-him-1.webp"
+    },
+    {
+     "alt": "Acnol White shield Men Bodywash 250 ml",
+     "image": "/images/groups/gift-for-him-1.webp"
+    },
+    {
+     "alt": "Acnol Real Aloe Men Bodywash 250 ml",
+     "image": "/images/groups/gift-for-him-3.webp"
+    },
+    {
+     "alt": "Acnol Real Aloe Men Bodywash 250 ml",
+     "image": "/images/groups/gift-for-him-3.webp"
+    },
+    {
+     "alt": "Acnol Vibrant Lotus Body Wash 250 ml",
+     "image": "/images/groups/gift-for-him-5.webp"
+    },
+    {
+     "alt": "Acnol Vibrant Lotus Body Wash 250 ml",
+     "image": "/images/groups/gift-for-him-5.webp"
+    },
+    {
+     "alt": "Body N Beard Hand & Body Cream 50 gm",
+     "image": "/images/groups/gift-for-him-7.jpeg"
+    },
+    {
+     "alt": "Body N Beard Hand & Body Cream 50 gm",
+     "image": "/images/groups/gift-for-him-7.jpeg"
+    }
+   ]
+  },
+  {
+   "title": "Best Seller",
+   "href": "https://www.herlan.com/product-tag/best-seller/",
+   "items": [
+    {
+     "alt": "Lily Whipped Shea Body Wash Fliptop – 250ml",
+     "image": "/images/groups/best-seller-1.jpg"
+    },
+    {
+     "alt": "Lily Whipped Shea Body Wash Fliptop – 250ml",
+     "image": "/images/groups/best-seller-1.jpg"
+    },
+    {
+     "alt": "Lily Advanced Anti-Hair fall Serum Oil – 200 ml",
+     "image": "/images/groups/best-seller-3.webp"
+    },
+    {
+     "alt": "Lily Advanced Anti-Hair fall Serum Oil – 200 ml",
+     "image": "/images/groups/best-seller-3.webp"
+    },
+    {
+     "alt": "Lily Serum Glow Soap Lemon Splash – 100 gm",
+     "image": "/images/groups/best-seller-5.jpg"
+    },
+    {
+     "alt": "Lily Serum Glow Soap Lemon Splash – 100 gm",
+     "image": "/images/groups/best-seller-5.jpg"
+    },
+    {
+     "alt": "Lily Serum Glow Soap French Rose – 100gm",
+     "image": "/images/groups/best-seller-7.jpg"
+    },
+    {
+     "alt": "Lily Serum Glow Soap French Rose – 100gm",
+     "image": "/images/groups/best-seller-7.jpg"
+    }
+   ]
+  },
+  {
+   "title": "Gift For Her",
+   "href": "https://www.herlan.com/product-tag/gift-for-her/",
+   "items": [
+    {
+     "alt": "Lily Advanced Anti-Hair fall Serum Oil – 200 ml",
+     "image": "/images/groups/best-seller-3.webp"
+    },
+    {
+     "alt": "Lily Advanced Anti-Hair fall Serum Oil – 200 ml",
+     "image": "/images/groups/best-seller-3.webp"
+    },
+    {
+     "alt": "Lily Serum Glow Soap French Rose – 100gm",
+     "image": "/images/groups/best-seller-7.jpg"
+    },
+    {
+     "alt": "Lily Serum Glow Soap French Rose – 100gm",
+     "image": "/images/groups/best-seller-7.jpg"
+    },
+    {
+     "alt": "Siodil Acne Patch with Aloe Vera",
+     "image": "/images/groups/gift-for-her-5.jpg"
+    },
+    {
+     "alt": "Siodil Acne Patch with Aloe Vera",
+     "image": "/images/groups/gift-for-her-5.jpg"
+    },
+    {
+     "alt": "Lily Flawless Matt 3Way Setting Powder-Golden Glow",
+     "image": "/images/groups/gift-for-her-7.webp"
+    },
+    {
+     "alt": "Lily Flawless Matt 3Way Setting Powder-Golden Glow",
+     "image": "/images/groups/gift-for-her-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Viral Beauty",
+   "href": "https://www.herlan.com/product-tag/viral-beauty/",
+   "items": [
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 200ml",
+     "image": "/images/groups/viral-beauty-1.webp"
+    },
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 200ml",
+     "image": "/images/groups/viral-beauty-1.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Face Serum 30ml",
+     "image": "/images/groups/viral-beauty-3.png"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Face Serum 30ml",
+     "image": "/images/groups/viral-beauty-3.png"
+    },
+    {
+     "alt": "Lily Pineapple Lip Balm 4.5gm",
+     "image": "/images/groups/viral-beauty-5.webp"
+    },
+    {
+     "alt": "Lily Pineapple Lip Balm 4.5gm",
+     "image": "/images/groups/viral-beauty-5.webp"
+    },
+    {
+     "alt": "Lily Berry Lip Balm 4.5gm",
+     "image": "/images/groups/viral-beauty-7.webp"
+    },
+    {
+     "alt": "Lily Berry Lip Balm 4.5gm",
+     "image": "/images/groups/viral-beauty-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Gift For You",
+   "href": "https://www.herlan.com/product-tag/for-you/",
+   "items": [
+    {
+     "alt": "Acnol White shield Men Bodywash 250 ml",
+     "image": "/images/groups/gift-for-him-1.webp"
+    },
+    {
+     "alt": "Acnol White shield Men Bodywash 250 ml",
+     "image": "/images/groups/gift-for-him-1.webp"
+    },
+    {
+     "alt": "Lily Body Spray Grace 135ml",
+     "image": "/images/groups/gift-for-you-3.webp"
+    },
+    {
+     "alt": "Lily Body Spray Grace 135ml",
+     "image": "/images/groups/gift-for-you-3.webp"
+    },
+    {
+     "alt": "Lily Body Spray Bloome 135ml",
+     "image": "/images/groups/gift-for-you-5.webp"
+    },
+    {
+     "alt": "Lily Body Spray Bloome 135ml",
+     "image": "/images/groups/gift-for-you-5.webp"
+    },
+    {
+     "alt": "NIOR Absolute Ceramide Repair Body Lotion 250ml",
+     "image": "/images/groups/gift-for-you-7.webp"
+    },
+    {
+     "alt": "NIOR Absolute Ceramide Repair Body Lotion 250ml",
+     "image": "/images/groups/gift-for-you-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Customer Favorites",
+   "href": "https://www.herlan.com/product-tag/customer/",
+   "items": [
+    {
+     "alt": "Dermo-U C-nergy Cream 40gm",
+     "image": "/images/groups/customer-favorites-1.webp"
+    },
+    {
+     "alt": "Dermo-U C-nergy Cream 40gm",
+     "image": "/images/groups/customer-favorites-1.webp"
+    },
+    {
+     "alt": "Lily Ultra Soft Serum Gel 50gm",
+     "image": "/images/groups/customer-favorites-3.webp"
+    },
+    {
+     "alt": "Lily Ultra Soft Serum Gel 50gm",
+     "image": "/images/groups/customer-favorites-3.webp"
+    },
+    {
+     "alt": "Siodil Anti-Scar Gel 40ml",
+     "image": "/images/groups/customer-favorites-5.webp"
+    },
+    {
+     "alt": "Siodil Anti-Scar Gel 40ml",
+     "image": "/images/groups/customer-favorites-5.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Foaming Face Wash 150ml",
+     "image": "/images/groups/customer-favorites-7.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Foaming Face Wash 150ml",
+     "image": "/images/groups/customer-favorites-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Trending Now",
+   "href": "https://www.herlan.com/product-tag/trending-now/",
+   "items": [
+    {
+     "alt": "Lily Flawless Matt 3Way Liquid Serum Foundation-Milk",
+     "image": "/images/groups/trending-now-1.jpg"
+    },
+    {
+     "alt": "Lily Flawless Matt 3Way Liquid Serum Foundation-Milk",
+     "image": "/images/groups/trending-now-1.jpg"
+    },
+    {
+     "alt": "NIOR  Red Carpet Liquid Matte Lip Color Hawaii 03",
+     "image": "/images/groups/trending-now-3.webp"
+    },
+    {
+     "alt": "NIOR  Red Carpet Liquid Matte Lip Color Hawaii 03",
+     "image": "/images/groups/trending-now-3.webp"
+    },
+    {
+     "alt": "NIOR Red Carpet Liquid Matte Lip Color  Dakota 17",
+     "image": "/images/groups/trending-now-5.webp"
+    },
+    {
+     "alt": "NIOR Red Carpet Liquid Matte Lip Color  Dakota 17",
+     "image": "/images/groups/trending-now-5.webp"
+    },
+    {
+     "alt": "NIOR  Red Carpet Liquid Matte Lip Color California 10",
+     "image": "/images/groups/trending-now-7.webp"
+    },
+    {
+     "alt": "NIOR  Red Carpet Liquid Matte Lip Color California 10",
+     "image": "/images/groups/trending-now-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Gift Under Tk 500",
+   "href": "https://www.herlan.com/product-tag/students-deal/",
+   "items": [
+    {
+     "alt": "Nior Deep Clean Gel Face Wash Fresh Lemon 100ml",
+     "image": "/images/groups/gift-under-tk-500-1.webp"
+    },
+    {
+     "alt": "Nior Deep Clean Gel Face Wash Fresh Lemon 100ml",
+     "image": "/images/groups/gift-under-tk-500-1.webp"
+    },
+    {
+     "alt": "Lily Glow Hydrate Sheet Mask Melon Splash 25ml",
+     "image": "/images/groups/gift-under-tk-500-3.webp"
+    },
+    {
+     "alt": "Lily Glow Hydrate Sheet Mask Melon Splash 25ml",
+     "image": "/images/groups/gift-under-tk-500-3.webp"
+    },
+    {
+     "alt": "Lily Whipped Shea Body Wash 250ml",
+     "image": "/images/groups/gift-under-tk-500-5.webp"
+    },
+    {
+     "alt": "Lily Whipped Shea Body Wash 250ml",
+     "image": "/images/groups/gift-under-tk-500-5.webp"
+    },
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 200ml",
+     "image": "/images/groups/viral-beauty-1.webp"
+    },
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 200ml",
+     "image": "/images/groups/viral-beauty-1.webp"
+    }
+   ]
+  },
+  {
+   "title": "Gift Under Tk 1000",
+   "href": "https://www.herlan.com/product-tag/1000tk/",
+   "items": [
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 200ml",
+     "image": "/images/groups/viral-beauty-1.webp"
+    },
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 200ml",
+     "image": "/images/groups/viral-beauty-1.webp"
+    },
+    {
+     "alt": "Lily Perfect Stay Pro Matte Liquid Lipstick Soft rose-10",
+     "image": "/images/groups/gift-under-tk-1000-3.png"
+    },
+    {
+     "alt": "Lily Perfect Stay Pro Matte Liquid Lipstick Soft rose-10",
+     "image": "/images/groups/gift-under-tk-1000-3.png"
+    },
+    {
+     "alt": "Nior Dewy Fresh Goat Milk Facewash 100ml",
+     "image": "/images/groups/facewash-cleanser-3.webp"
+    },
+    {
+     "alt": "Nior Dewy Fresh Goat Milk Facewash 100ml",
+     "image": "/images/groups/facewash-cleanser-3.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Face Serum 30ml",
+     "image": "/images/groups/viral-beauty-3.png"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Face Serum 30ml",
+     "image": "/images/groups/viral-beauty-3.png"
+    }
+   ]
+  },
+  {
+   "title": "Brightening & Glow",
+   "href": "https://www.herlan.com/product-tag/brighteningroutine/",
+   "items": [
+    {
+     "alt": "Lily Premium Gold Soap 175 gm",
+     "image": "/images/groups/brightening-glow-1.jpg"
+    },
+    {
+     "alt": "Lily Premium Gold Soap 175 gm",
+     "image": "/images/groups/brightening-glow-1.jpg"
+    },
+    {
+     "alt": "NIOR Absolute Ceramide Repair Body Lotion 250ml",
+     "image": "/images/groups/gift-for-you-7.webp"
+    },
+    {
+     "alt": "NIOR Absolute Ceramide Repair Body Lotion 250ml",
+     "image": "/images/groups/gift-for-you-7.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Face Serum 30ml",
+     "image": "/images/groups/viral-beauty-3.png"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Face Serum 30ml",
+     "image": "/images/groups/viral-beauty-3.png"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Day Cream SPF 30 50gm",
+     "image": "/images/groups/moisturizer-7.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Day Cream SPF 30 50gm",
+     "image": "/images/groups/moisturizer-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Anti-Acne Solutions",
+   "href": "https://www.herlan.com/product-tag/anti-acne/",
+   "items": [
+    {
+     "alt": "Dermo-U Acne Cream 50gm",
+     "image": "/images/groups/anti-acne-solutions-1.webp"
+    },
+    {
+     "alt": "Dermo-U Acne Cream 50gm",
+     "image": "/images/groups/anti-acne-solutions-1.webp"
+    },
+    {
+     "alt": "SIODIL ANTI-ACNE CLEANSER 100ml",
+     "image": "/images/groups/anti-acne-solutions-3.webp"
+    },
+    {
+     "alt": "SIODIL ANTI-ACNE CLEANSER 100ml",
+     "image": "/images/groups/anti-acne-solutions-3.webp"
+    },
+    {
+     "alt": "Dermo-U Acne Face Wash 180ml",
+     "image": "/images/groups/anti-acne-solutions-5.webp"
+    },
+    {
+     "alt": "Dermo-U Acne Face Wash 180ml",
+     "image": "/images/groups/anti-acne-solutions-5.webp"
+    },
+    {
+     "alt": "Siodil Acne Patch with Salicylic Acid",
+     "image": "/images/groups/anti-acne-solutions-7.jpg"
+    },
+    {
+     "alt": "Siodil Acne Patch with Salicylic Acid",
+     "image": "/images/groups/anti-acne-solutions-7.jpg"
+    }
+   ]
+  },
+  {
+   "title": "Staff Favorites",
+   "href": "https://www.herlan.com/product-tag/staff-favorites/",
+   "items": [
+    {
+     "alt": "Body N Beard Advanced Hair Serum 30 ml",
+     "image": "/images/groups/staff-favorites-1.jpeg"
+    },
+    {
+     "alt": "Body N Beard Advanced Hair Serum 30 ml",
+     "image": "/images/groups/staff-favorites-1.jpeg"
+    },
+    {
+     "alt": "NIOR Deep Clean Gel Face Wash Tea Tree 100ml",
+     "image": "/images/groups/staff-favorites-3.webp"
+    },
+    {
+     "alt": "NIOR Deep Clean Gel Face Wash Tea Tree 100ml",
+     "image": "/images/groups/staff-favorites-3.webp"
+    },
+    {
+     "alt": "Lily Whipped Shea Body Wash 500ml",
+     "image": "/images/groups/staff-favorites-5.webp"
+    },
+    {
+     "alt": "Lily Whipped Shea Body Wash 500ml",
+     "image": "/images/groups/staff-favorites-5.webp"
+    },
+    {
+     "alt": "Nior Aqua Splash Sunscreen SPF 50 PA++++ 50ml",
+     "image": "/images/groups/staff-favorites-7.png"
+    },
+    {
+     "alt": "Nior Aqua Splash Sunscreen SPF 50 PA++++ 50ml",
+     "image": "/images/groups/staff-favorites-7.png"
+    }
+   ]
+  },
+  {
+   "title": "Hydration Hero",
+   "href": "https://www.herlan.com/product-tag/hydration-routine/",
+   "items": [
+    {
+     "alt": "Nior Dewy Fresh Oat Milk Cleanser 100ml",
+     "image": "/images/groups/hydration-hero-1.png"
+    },
+    {
+     "alt": "Nior Dewy Fresh Oat Milk Cleanser 100ml",
+     "image": "/images/groups/hydration-hero-1.png"
+    },
+    {
+     "alt": "Nior Dewy Fresh Goat Milk Facewash 100ml",
+     "image": "/images/groups/facewash-cleanser-3.webp"
+    },
+    {
+     "alt": "Nior Dewy Fresh Goat Milk Facewash 100ml",
+     "image": "/images/groups/facewash-cleanser-3.webp"
+    },
+    {
+     "alt": "SIODIL Ato Lotion 200ml",
+     "image": "/images/groups/hydration-hero-5.webp"
+    },
+    {
+     "alt": "SIODIL Ato Lotion 200ml",
+     "image": "/images/groups/hydration-hero-5.webp"
+    },
+    {
+     "alt": "SIODIL Ato Intensive Balm 200ml",
+     "image": "/images/groups/hydration-hero-7.webp"
+    },
+    {
+     "alt": "SIODIL Ato Intensive Balm 200ml",
+     "image": "/images/groups/hydration-hero-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Sensitive Skin Care",
+   "href": "https://www.herlan.com/product-tag/sensitiveskincare/",
+   "items": [
+    {
+     "alt": "Lily Neem facewash 100gm",
+     "image": "/images/groups/sensitive-skin-care-1.webp"
+    },
+    {
+     "alt": "Lily Neem facewash 100gm",
+     "image": "/images/groups/sensitive-skin-care-1.webp"
+    },
+    {
+     "alt": "Nior Deep Clean Gel Face Wash Fresh Lemon 100ml",
+     "image": "/images/groups/gift-under-tk-500-1.webp"
+    },
+    {
+     "alt": "Nior Deep Clean Gel Face Wash Fresh Lemon 100ml",
+     "image": "/images/groups/gift-under-tk-500-1.webp"
+    },
+    {
+     "alt": "Dermo-U Flawless Face Wash 180ml",
+     "image": "/images/groups/sensitive-skin-care-5.webp"
+    },
+    {
+     "alt": "Dermo-U Flawless Face Wash 180ml",
+     "image": "/images/groups/sensitive-skin-care-5.webp"
+    },
+    {
+     "alt": "Siodil Ato Moisturizing Bar 100gm",
+     "image": "/images/groups/sensitive-skin-care-7.webp"
+    },
+    {
+     "alt": "Siodil Ato Moisturizing Bar 100gm",
+     "image": "/images/groups/sensitive-skin-care-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Oily Skin Solutions",
+   "href": "https://www.herlan.com/product-tag/oilcontrolroutine/",
+   "items": [
+    {
+     "alt": "Siodil Acne Patch with Salicylic Acid",
+     "image": "/images/groups/anti-acne-solutions-7.jpg"
+    },
+    {
+     "alt": "Siodil Acne Patch with Salicylic Acid",
+     "image": "/images/groups/anti-acne-solutions-7.jpg"
+    },
+    {
+     "alt": "Siodil Acne Patch with Aloe Vera",
+     "image": "/images/groups/gift-for-her-5.jpg"
+    },
+    {
+     "alt": "Siodil Acne Patch with Aloe Vera",
+     "image": "/images/groups/gift-for-her-5.jpg"
+    },
+    {
+     "alt": "Siodil Daily Barrier Repair Body SPF 50 150ml",
+     "image": "/images/groups/oily-skin-solutions-5.webp"
+    },
+    {
+     "alt": "Siodil Daily Barrier Repair Body SPF 50 150ml",
+     "image": "/images/groups/oily-skin-solutions-5.webp"
+    },
+    {
+     "alt": "Siodil Daily Cracked Heels Balm 40 ml",
+     "image": "/images/groups/oily-skin-solutions-7.webp"
+    },
+    {
+     "alt": "Siodil Daily Cracked Heels Balm 40 ml",
+     "image": "/images/groups/oily-skin-solutions-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Anti-Aging & Skin Repair",
+   "href": "https://www.herlan.com/product-tag/glass-skin-routine/",
+   "items": [
+    {
+     "alt": "Nior Deep Clean Gel Face Wash Sweet Orange 100ml",
+     "image": "/images/groups/anti-aging-skin-repair-1.webp"
+    },
+    {
+     "alt": "Nior Deep Clean Gel Face Wash Sweet Orange 100ml",
+     "image": "/images/groups/anti-aging-skin-repair-1.webp"
+    },
+    {
+     "alt": "Nior Dewy Fresh Goat Milk Facewash 100ml",
+     "image": "/images/groups/facewash-cleanser-3.webp"
+    },
+    {
+     "alt": "Nior Dewy Fresh Goat Milk Facewash 100ml",
+     "image": "/images/groups/facewash-cleanser-3.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Face Serum 30ml",
+     "image": "/images/groups/viral-beauty-3.png"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Face Serum 30ml",
+     "image": "/images/groups/viral-beauty-3.png"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Foaming Face Wash 150ml",
+     "image": "/images/groups/customer-favorites-7.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Foaming Face Wash 150ml",
+     "image": "/images/groups/customer-favorites-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Hair Fall Control",
+   "href": "https://www.herlan.com/product-tag/hair-fall-control/",
+   "items": [
+    {
+     "alt": "Lily Advanced Hair Growth Serum Oil – 200 ml",
+     "image": "/images/groups/hair-fall-control-1.webp"
+    },
+    {
+     "alt": "Lily Advanced Hair Growth Serum Oil – 200 ml",
+     "image": "/images/groups/hair-fall-control-1.webp"
+    },
+    {
+     "alt": "Lily Advanced Anti-Hair fall Serum Oil – 200 ml",
+     "image": "/images/groups/best-seller-3.webp"
+    },
+    {
+     "alt": "Lily Advanced Anti-Hair fall Serum Oil – 200 ml",
+     "image": "/images/groups/best-seller-3.webp"
+    },
+    {
+     "alt": "Body N Beard Advanced Hair Serum 30 ml",
+     "image": "/images/groups/staff-favorites-1.jpeg"
+    },
+    {
+     "alt": "Body N Beard Advanced Hair Serum 30 ml",
+     "image": "/images/groups/staff-favorites-1.jpeg"
+    },
+    {
+     "alt": "Siodil Follixil Shampoo 200ml",
+     "image": "/images/groups/hair-fall-control-7.webp"
+    },
+    {
+     "alt": "Siodil Follixil Shampoo 200ml",
+     "image": "/images/groups/hair-fall-control-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Pore Care",
+   "href": "https://www.herlan.com/product-tag/pore/",
+   "items": [
+    {
+     "alt": "Flormar Loose Powder Banana Pudding",
+     "image": "/images/groups/pore-care-1.jpeg"
+    },
+    {
+     "alt": "Flormar Loose Powder Banana Pudding",
+     "image": "/images/groups/pore-care-1.jpeg"
+    },
+    {
+     "alt": "NIOR Your Best Skin Matte BB Cream – Pearl",
+     "image": "/images/groups/pore-care-3.webp"
+    },
+    {
+     "alt": "NIOR Your Best Skin Matte BB Cream – Pearl",
+     "image": "/images/groups/pore-care-3.webp"
+    },
+    {
+     "alt": "NIOR Deep Clean Gel Face Wash Tea Tree 100ml",
+     "image": "/images/groups/staff-favorites-3.webp"
+    },
+    {
+     "alt": "NIOR Deep Clean Gel Face Wash Tea Tree 100ml",
+     "image": "/images/groups/staff-favorites-3.webp"
+    },
+    {
+     "alt": "Nior Dreamy Glow Brightening Cleansing Foam 120ml",
+     "image": "/images/groups/facewash-cleanser-1.jpg"
+    },
+    {
+     "alt": "Nior Dreamy Glow Brightening Cleansing Foam 120ml",
+     "image": "/images/groups/facewash-cleanser-1.jpg"
+    }
+   ]
+  },
+  {
+   "title": "Dandruff Solutions",
+   "href": "https://www.herlan.com/product-tag/anti-dandruff-care/",
+   "items": [
+    {
+     "alt": "Cavotin Breakage Therapy Hair Mask 200gm",
+     "image": "/images/groups/dandruff-solutions-1.webp"
+    },
+    {
+     "alt": "Cavotin Breakage Therapy Hair Mask 200gm",
+     "image": "/images/groups/dandruff-solutions-1.webp"
+    },
+    {
+     "alt": "Cavotin Breakage Therapy Shampoo 250 ml",
+     "image": "/images/groups/dandruff-solutions-3.webp"
+    },
+    {
+     "alt": "Cavotin Breakage Therapy Shampoo 250 ml",
+     "image": "/images/groups/dandruff-solutions-3.webp"
+    },
+    {
+     "alt": "Lily Silkore Silk & Shine Shampoo 1000ml",
+     "image": "/images/groups/dandruff-solutions-5.jpg"
+    },
+    {
+     "alt": "Lily Silkore Silk & Shine Shampoo 1000ml",
+     "image": "/images/groups/dandruff-solutions-5.jpg"
+    },
+    {
+     "alt": "Body N Beard Hair Fall Defense Shampoo 200ml",
+     "image": "/images/groups/dandruff-solutions-7.webp"
+    },
+    {
+     "alt": "Body N Beard Hair Fall Defense Shampoo 200ml",
+     "image": "/images/groups/dandruff-solutions-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Scalp Care Essential",
+   "href": "https://www.herlan.com/product-tag/smooth-hair-routine/",
+   "items": [
+    {
+     "alt": "Lily Advanced Hair Growth Serum Oil – 200 ml",
+     "image": "/images/groups/hair-fall-control-1.webp"
+    },
+    {
+     "alt": "Lily Advanced Hair Growth Serum Oil – 200 ml",
+     "image": "/images/groups/hair-fall-control-1.webp"
+    },
+    {
+     "alt": "Lily Advanced Anti-Hair fall Serum Oil – 200 ml",
+     "image": "/images/groups/best-seller-3.webp"
+    },
+    {
+     "alt": "Lily Advanced Anti-Hair fall Serum Oil – 200 ml",
+     "image": "/images/groups/best-seller-3.webp"
+    },
+    {
+     "alt": "Cavotin Humidi-Lock Hair Serum 50ml",
+     "image": "/images/groups/scalp-care-essential-5.webp"
+    },
+    {
+     "alt": "Cavotin Humidi-Lock Hair Serum 50ml",
+     "image": "/images/groups/scalp-care-essential-5.webp"
+    },
+    {
+     "alt": "Lily Silkore Silk & Shine Shampoo 1000ml",
+     "image": "/images/groups/dandruff-solutions-5.jpg"
+    },
+    {
+     "alt": "Lily Silkore Silk & Shine Shampoo 1000ml",
+     "image": "/images/groups/dandruff-solutions-5.jpg"
+    }
+   ]
+  },
+  {
+   "title": "Hydration Heroes",
+   "href": "https://www.herlan.com/product-tag/hydration-moisturizers/",
+   "items": [
+    {
+     "alt": "Dermo-U Moisture Boost Cream 40gm",
+     "image": "/images/groups/moisturizer-1.webp"
+    },
+    {
+     "alt": "Dermo-U Moisture Boost Cream 40gm",
+     "image": "/images/groups/moisturizer-1.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Sleeping Mask 50gm",
+     "image": "/images/groups/hydration-heroes-3.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Sleeping Mask 50gm",
+     "image": "/images/groups/hydration-heroes-3.webp"
+    },
+    {
+     "alt": "Lily Glow Hydrate Sheet Mask Melon Splash 25ml",
+     "image": "/images/groups/gift-under-tk-500-3.webp"
+    },
+    {
+     "alt": "Lily Glow Hydrate Sheet Mask Melon Splash 25ml",
+     "image": "/images/groups/gift-under-tk-500-3.webp"
+    },
+    {
+     "alt": "Lily Glow Hydrate Sheet Mask Orange Bliss 25ml",
+     "image": "/images/groups/hydration-heroes-7.webp"
+    },
+    {
+     "alt": "Lily Glow Hydrate Sheet Mask Orange Bliss 25ml",
+     "image": "/images/groups/hydration-heroes-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Top-Rated Foundation",
+   "href": "https://www.herlan.com/product-tag/topf/",
+   "items": [
+    {
+     "alt": "NIOR Your Best Skin Matte BB Cream – Pearl",
+     "image": "/images/groups/pore-care-3.webp"
+    },
+    {
+     "alt": "NIOR Your Best Skin Matte BB Cream – Pearl",
+     "image": "/images/groups/pore-care-3.webp"
+    },
+    {
+     "alt": "Lily Flawless Matt 3Way Liquid Serum Foundation-Milk",
+     "image": "/images/groups/trending-now-1.jpg"
+    },
+    {
+     "alt": "Lily Flawless Matt 3Way Liquid Serum Foundation-Milk",
+     "image": "/images/groups/trending-now-1.jpg"
+    },
+    {
+     "alt": "Lily Flawless Matt 3Way Liquid Serum Foundation-Coconut",
+     "image": "/images/groups/top-rated-foundation-5.jpg"
+    },
+    {
+     "alt": "Lily Flawless Matt 3Way Liquid Serum Foundation-Coconut",
+     "image": "/images/groups/top-rated-foundation-5.jpg"
+    },
+    {
+     "alt": "Lily Flawless Matt 3Way Liquid Serum Foundation-Soy",
+     "image": "/images/groups/top-rated-foundation-7.jpg"
+    },
+    {
+     "alt": "Lily Flawless Matt 3Way Liquid Serum Foundation-Soy",
+     "image": "/images/groups/top-rated-foundation-7.jpg"
+    }
+   ]
+  },
+  {
+   "title": "Complete Grooming for All",
+   "href": "https://www.herlan.com/product-tag/complete-grooming/",
+   "items": [
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 200ml",
+     "image": "/images/groups/viral-beauty-1.webp"
+    },
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 200ml",
+     "image": "/images/groups/viral-beauty-1.webp"
+    },
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 100ml",
+     "image": "/images/groups/complete-grooming-for-all-3.webp"
+    },
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 100ml",
+     "image": "/images/groups/complete-grooming-for-all-3.webp"
+    },
+    {
+     "alt": "Lily Dazzling Beauty Whitening Skin Lotion 200ml",
+     "image": "/images/groups/complete-grooming-for-all-5.webp"
+    },
+    {
+     "alt": "Lily Dazzling Beauty Whitening Skin Lotion 200ml",
+     "image": "/images/groups/complete-grooming-for-all-5.webp"
+    },
+    {
+     "alt": "Lily Dazzling Beauty Whitening Skin Lotion 100ml",
+     "image": "/images/groups/complete-grooming-for-all-7.webp"
+    },
+    {
+     "alt": "Lily Dazzling Beauty Whitening Skin Lotion 100ml",
+     "image": "/images/groups/complete-grooming-for-all-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Keep Shopping Lipstick",
+   "href": "https://www.herlan.com/product-tag/keep-shopping-lipstick/",
+   "items": [
+    {
+     "alt": "Maxbeu Silky Matte Liquid Lipstick – 165",
+     "image": "/images/groups/keep-shopping-lipstick-1.jpg"
+    },
+    {
+     "alt": "Maxbeu Silky Matte Liquid Lipstick – 165",
+     "image": "/images/groups/keep-shopping-lipstick-1.jpg"
+    },
+    {
+     "alt": "Maxbeu Mini Matte Lipstick-72",
+     "image": "/images/groups/keep-shopping-lipstick-3.webp"
+    },
+    {
+     "alt": "Maxbeu Mini Matte Lipstick-72",
+     "image": "/images/groups/keep-shopping-lipstick-3.webp"
+    },
+    {
+     "alt": "Flormar Waterproof Lipliner – 234 Vanilla Souffle",
+     "image": "/images/groups/keep-shopping-lipstick-5.webp"
+    },
+    {
+     "alt": "Flormar Waterproof Lipliner – 234 Vanilla Souffle",
+     "image": "/images/groups/keep-shopping-lipstick-5.webp"
+    },
+    {
+     "alt": "Flormar Sheer Up New Lipstick – 008 Fan Of Fuchsia",
+     "image": "/images/groups/keep-shopping-lipstick-7.jpeg"
+    },
+    {
+     "alt": "Flormar Sheer Up New Lipstick – 008 Fan Of Fuchsia",
+     "image": "/images/groups/keep-shopping-lipstick-7.jpeg"
+    }
+   ]
+  },
+  {
+   "title": "Best Haircare Routine",
+   "href": "https://www.herlan.com/product-tag/healthy-hair-for-everyday/",
+   "items": [
+    {
+     "alt": "Cavotin Breakage Therapy Hair Mask 200gm",
+     "image": "/images/groups/dandruff-solutions-1.webp"
+    },
+    {
+     "alt": "Cavotin Breakage Therapy Hair Mask 200gm",
+     "image": "/images/groups/dandruff-solutions-1.webp"
+    },
+    {
+     "alt": "Cavotin Breakage Therapy Shampoo 250 ml",
+     "image": "/images/groups/dandruff-solutions-3.webp"
+    },
+    {
+     "alt": "Cavotin Breakage Therapy Shampoo 250 ml",
+     "image": "/images/groups/dandruff-solutions-3.webp"
+    },
+    {
+     "alt": "Cavotin Equi-Shine Hair Oil 50ml",
+     "image": "/images/groups/best-haircare-routine-5.webp"
+    },
+    {
+     "alt": "Cavotin Equi-Shine Hair Oil 50ml",
+     "image": "/images/groups/best-haircare-routine-5.webp"
+    },
+    {
+     "alt": "Lily Silkore Silk & Shine Shampoo 1000ml",
+     "image": "/images/groups/dandruff-solutions-5.jpg"
+    },
+    {
+     "alt": "Lily Silkore Silk & Shine Shampoo 1000ml",
+     "image": "/images/groups/dandruff-solutions-5.jpg"
+    }
+   ]
+  },
+  {
+   "title": "Top Selling in Nior",
+   "href": "https://www.herlan.com/product-tag/niorbest/",
+   "items": [
+    {
+     "alt": "NIOR Your Best Skin Flushed Powder Blush – Whipped Berry",
+     "image": "/images/groups/top-selling-in-nior-1.webp"
+    },
+    {
+     "alt": "NIOR Your Best Skin Flushed Powder Blush – Whipped Berry",
+     "image": "/images/groups/top-selling-in-nior-1.webp"
+    },
+    {
+     "alt": "NIOR Your Best Skin Matte BB Cream – Pearl",
+     "image": "/images/groups/pore-care-3.webp"
+    },
+    {
+     "alt": "NIOR Your Best Skin Matte BB Cream – Pearl",
+     "image": "/images/groups/pore-care-3.webp"
+    },
+    {
+     "alt": "Nior Deep Clean Gel Face Wash Fresh Lemon 100ml",
+     "image": "/images/groups/gift-under-tk-500-1.webp"
+    },
+    {
+     "alt": "Nior Deep Clean Gel Face Wash Fresh Lemon 100ml",
+     "image": "/images/groups/gift-under-tk-500-1.webp"
+    },
+    {
+     "alt": "Nior Dewy Fresh Goat Milk Facewash 100ml",
+     "image": "/images/groups/facewash-cleanser-3.webp"
+    },
+    {
+     "alt": "Nior Dewy Fresh Goat Milk Facewash 100ml",
+     "image": "/images/groups/facewash-cleanser-3.webp"
+    }
+   ]
+  },
+  {
+   "title": "Korean Beauty",
+   "href": "https://www.herlan.com/product-tag/korean-beauty/",
+   "items": [
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Face Serum 30ml",
+     "image": "/images/groups/viral-beauty-3.png"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Face Serum 30ml",
+     "image": "/images/groups/viral-beauty-3.png"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Foaming Face Wash 150ml",
+     "image": "/images/groups/customer-favorites-7.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Foaming Face Wash 150ml",
+     "image": "/images/groups/customer-favorites-7.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Sleeping Mask 50gm",
+     "image": "/images/groups/hydration-heroes-3.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Sleeping Mask 50gm",
+     "image": "/images/groups/hydration-heroes-3.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Body Lotion 100ml",
+     "image": "/images/groups/korean-beauty-7.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Body Lotion 100ml",
+     "image": "/images/groups/korean-beauty-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Lily Best Seller",
+   "href": "https://www.herlan.com/product-tag/lilybest/",
+   "items": [
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 200ml",
+     "image": "/images/groups/viral-beauty-1.webp"
+    },
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 200ml",
+     "image": "/images/groups/viral-beauty-1.webp"
+    },
+    {
+     "alt": "Lily Dazzling Beauty Whitening Skin Lotion 200ml",
+     "image": "/images/groups/complete-grooming-for-all-5.webp"
+    },
+    {
+     "alt": "Lily Dazzling Beauty Whitening Skin Lotion 200ml",
+     "image": "/images/groups/complete-grooming-for-all-5.webp"
+    },
+    {
+     "alt": "Lily Dazzling Beauty Whitening Skin Lotion 100ml",
+     "image": "/images/groups/complete-grooming-for-all-7.webp"
+    },
+    {
+     "alt": "Lily Dazzling Beauty Whitening Skin Lotion 100ml",
+     "image": "/images/groups/complete-grooming-for-all-7.webp"
+    },
+    {
+     "alt": "Lily Whipped Shea Body Wash Fliptop – 250ml",
+     "image": "/images/groups/best-seller-1.jpg"
+    },
+    {
+     "alt": "Lily Whipped Shea Body Wash Fliptop – 250ml",
+     "image": "/images/groups/best-seller-1.jpg"
+    }
+   ]
+  },
+  {
+   "title": "Authentic International Brand",
+   "href": "https://www.herlan.com/product-tag/authentic-international-brand/",
+   "items": [
+    {
+     "alt": "Flormar Waterproof Lipliner – 245 Natural",
+     "image": "/images/groups/authentic-international-brand-1.webp"
+    },
+    {
+     "alt": "Flormar Waterproof Lipliner – 245 Natural",
+     "image": "/images/groups/authentic-international-brand-1.webp"
+    },
+    {
+     "alt": "Flormar Sheer Up New Lipstick – 013 Gaia",
+     "image": "/images/groups/authentic-international-brand-3.jpg"
+    },
+    {
+     "alt": "Flormar Sheer Up New Lipstick – 013 Gaia",
+     "image": "/images/groups/authentic-international-brand-3.jpg"
+    },
+    {
+     "alt": "Flormar HD Weightless Matte Liquid Lipstick – 013 Perfect Bordeaux",
+     "image": "/images/groups/authentic-international-brand-5.jpg"
+    },
+    {
+     "alt": "Flormar HD Weightless Matte Liquid Lipstick – 013 Perfect Bordeaux",
+     "image": "/images/groups/authentic-international-brand-5.jpg"
+    },
+    {
+     "alt": "Flormar Silk Matte Liquid Lipstick – 60 Peach Smoothie",
+     "image": "/images/groups/authentic-international-brand-7.jpg"
+    },
+    {
+     "alt": "Flormar Silk Matte Liquid Lipstick – 60 Peach Smoothie",
+     "image": "/images/groups/authentic-international-brand-7.jpg"
+    }
+   ]
+  },
+  {
+   "title": "Monsoon Essentials",
+   "href": "https://www.herlan.com/product-tag/monsoon-essentials/",
+   "items": [
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 200ml",
+     "image": "/images/groups/viral-beauty-1.webp"
+    },
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 200ml",
+     "image": "/images/groups/viral-beauty-1.webp"
+    },
+    {
+     "alt": "NIOR Your Best Skin Stay Locked All Day Makeup Setting Spray – 140ml",
+     "image": "/images/groups/monsoon-essentials-3.webp"
+    },
+    {
+     "alt": "NIOR Your Best Skin Stay Locked All Day Makeup Setting Spray – 140ml",
+     "image": "/images/groups/monsoon-essentials-3.webp"
+    },
+    {
+     "alt": "Dermo-U C-nergy Cream 40gm",
+     "image": "/images/groups/customer-favorites-1.webp"
+    },
+    {
+     "alt": "Dermo-U C-nergy Cream 40gm",
+     "image": "/images/groups/customer-favorites-1.webp"
+    },
+    {
+     "alt": "Body N Beard Advanced Hair Serum 30 ml",
+     "image": "/images/groups/staff-favorites-1.jpeg"
+    },
+    {
+     "alt": "Body N Beard Advanced Hair Serum 30 ml",
+     "image": "/images/groups/staff-favorites-1.jpeg"
+    }
+   ]
+  },
+  {
+   "title": "Luxury Beauty",
+   "href": "https://www.herlan.com/product-tag/luxury/",
+   "items": [
+    {
+     "alt": "NIOR Red Carpet Easy Blur Lip & Cheek Mousse Pink Hype – 5.5gm",
+     "image": "/images/groups/luxury-beauty-1.webp"
+    },
+    {
+     "alt": "NIOR Red Carpet Easy Blur Lip & Cheek Mousse Pink Hype – 5.5gm",
+     "image": "/images/groups/luxury-beauty-1.webp"
+    },
+    {
+     "alt": "Herlan Airy Matte Liquid Foundation -Cool-C003-Teakwood",
+     "image": "/images/groups/luxury-beauty-3.webp"
+    },
+    {
+     "alt": "Herlan Airy Matte Liquid Foundation -Cool-C003-Teakwood",
+     "image": "/images/groups/luxury-beauty-3.webp"
+    },
+    {
+     "alt": "Siodil D-Pigment Cleanser 100ml",
+     "image": "/images/groups/luxury-beauty-5.webp"
+    },
+    {
+     "alt": "Siodil D-Pigment Cleanser 100ml",
+     "image": "/images/groups/luxury-beauty-5.webp"
+    },
+    {
+     "alt": "Siodil Anti-Scar Gel 40ml",
+     "image": "/images/groups/customer-favorites-5.webp"
+    },
+    {
+     "alt": "Siodil Anti-Scar Gel 40ml",
+     "image": "/images/groups/customer-favorites-5.webp"
+    }
+   ]
+  },
+  {
+   "title": "College Essential",
+   "href": "https://www.herlan.com/product-tag/college-essential/",
+   "items": [
+    {
+     "alt": "Dermo-U C-nergy Cream 40gm",
+     "image": "/images/groups/customer-favorites-1.webp"
+    },
+    {
+     "alt": "Dermo-U C-nergy Cream 40gm",
+     "image": "/images/groups/customer-favorites-1.webp"
+    },
+    {
+     "alt": "Body N Beard Hand & Body Cream 50 gm",
+     "image": "/images/groups/gift-for-him-7.jpeg"
+    },
+    {
+     "alt": "Body N Beard Hand & Body Cream 50 gm",
+     "image": "/images/groups/gift-for-him-7.jpeg"
+    },
+    {
+     "alt": "Lily Ultra Soft Serum Gel 50gm",
+     "image": "/images/groups/customer-favorites-3.webp"
+    },
+    {
+     "alt": "Lily Ultra Soft Serum Gel 50gm",
+     "image": "/images/groups/customer-favorites-3.webp"
+    },
+    {
+     "alt": "Dermo-U Moisture Boost Cream 40gm",
+     "image": "/images/groups/moisturizer-1.webp"
+    },
+    {
+     "alt": "Dermo-U Moisture Boost Cream 40gm",
+     "image": "/images/groups/moisturizer-1.webp"
+    }
+   ]
+  },
+  {
+   "title": "Confidence That Lasts All Workday",
+   "href": "https://www.herlan.com/product-tag/office-ready/",
+   "items": [
+    {
+     "alt": "Lily Perfect Stay Pro Matte Liquid Lipstick Rust Nude-42",
+     "image": "/images/groups/confidence-that-lasts-all-workday-1.png"
+    },
+    {
+     "alt": "Lily Perfect Stay Pro Matte Liquid Lipstick Rust Nude-42",
+     "image": "/images/groups/confidence-that-lasts-all-workday-1.png"
+    },
+    {
+     "alt": "Lily Body Spray Bloome 135ml",
+     "image": "/images/groups/gift-for-you-5.webp"
+    },
+    {
+     "alt": "Lily Body Spray Bloome 135ml",
+     "image": "/images/groups/gift-for-you-5.webp"
+    },
+    {
+     "alt": "Lily Pretty Perfect Matt Lipstick – TRUFFLE",
+     "image": "/images/groups/confidence-that-lasts-all-workday-5.jpg"
+    },
+    {
+     "alt": "Lily Pretty Perfect Matt Lipstick – TRUFFLE",
+     "image": "/images/groups/confidence-that-lasts-all-workday-5.jpg"
+    },
+    {
+     "alt": "Lily Airliner Intense Kajal Pencil",
+     "image": "/images/groups/confidence-that-lasts-all-workday-7.jpg"
+    },
+    {
+     "alt": "Lily Airliner Intense Kajal Pencil",
+     "image": "/images/groups/confidence-that-lasts-all-workday-7.jpg"
+    }
+   ]
+  },
+  {
+   "title": "Travel Beauty Essentials",
+   "href": "https://www.herlan.com/product-tag/travel-beauty/",
+   "items": [
+    {
+     "alt": "Lily Neem facewash 100gm",
+     "image": "/images/groups/sensitive-skin-care-1.webp"
+    },
+    {
+     "alt": "Lily Neem facewash 100gm",
+     "image": "/images/groups/sensitive-skin-care-1.webp"
+    },
+    {
+     "alt": "Body N Beard Hand & Body Cream 50 gm",
+     "image": "/images/groups/gift-for-him-7.jpeg"
+    },
+    {
+     "alt": "Body N Beard Hand & Body Cream 50 gm",
+     "image": "/images/groups/gift-for-him-7.jpeg"
+    },
+    {
+     "alt": "Lily Ultra Soft Serum Gel 50gm",
+     "image": "/images/groups/customer-favorites-3.webp"
+    },
+    {
+     "alt": "Lily Ultra Soft Serum Gel 50gm",
+     "image": "/images/groups/customer-favorites-3.webp"
+    },
+    {
+     "alt": "Dermo-U Flawless Face Wash 180ml",
+     "image": "/images/groups/sensitive-skin-care-5.webp"
+    },
+    {
+     "alt": "Dermo-U Flawless Face Wash 180ml",
+     "image": "/images/groups/sensitive-skin-care-5.webp"
+    }
+   ]
+  },
+  {
+   "title": "Beginner Skincare",
+   "href": "https://www.herlan.com/product-tag/beginner-skincare/",
+   "items": [
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 100ml",
+     "image": "/images/groups/complete-grooming-for-all-3.webp"
+    },
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 100ml",
+     "image": "/images/groups/complete-grooming-for-all-3.webp"
+    },
+    {
+     "alt": "Lily Neem facewash 100gm",
+     "image": "/images/groups/sensitive-skin-care-1.webp"
+    },
+    {
+     "alt": "Lily Neem facewash 100gm",
+     "image": "/images/groups/sensitive-skin-care-1.webp"
+    },
+    {
+     "alt": "Dermo-U C-nergy Cream 40gm",
+     "image": "/images/groups/customer-favorites-1.webp"
+    },
+    {
+     "alt": "Dermo-U C-nergy Cream 40gm",
+     "image": "/images/groups/customer-favorites-1.webp"
+    },
+    {
+     "alt": "Body N Beard Hand & Body Cream 50 gm",
+     "image": "/images/groups/gift-for-him-7.jpeg"
+    },
+    {
+     "alt": "Body N Beard Hand & Body Cream 50 gm",
+     "image": "/images/groups/gift-for-him-7.jpeg"
+    }
+   ]
+  },
+  {
+   "title": "Dark Spot Treatment",
+   "href": "https://www.herlan.com/product-tag/dark-spot-treatment/",
+   "items": [
+    {
+     "alt": "Dermo-U C-nergy Cream 40gm",
+     "image": "/images/groups/customer-favorites-1.webp"
+    },
+    {
+     "alt": "Dermo-U C-nergy Cream 40gm",
+     "image": "/images/groups/customer-favorites-1.webp"
+    },
+    {
+     "alt": "Lily Ultra Soft Serum Gel 50gm",
+     "image": "/images/groups/customer-favorites-3.webp"
+    },
+    {
+     "alt": "Lily Ultra Soft Serum Gel 50gm",
+     "image": "/images/groups/customer-favorites-3.webp"
+    },
+    {
+     "alt": "Nior Dewy Fresh Goat Milk Facewash 100ml",
+     "image": "/images/groups/facewash-cleanser-3.webp"
+    },
+    {
+     "alt": "Nior Dewy Fresh Goat Milk Facewash 100ml",
+     "image": "/images/groups/facewash-cleanser-3.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Face Serum 30ml",
+     "image": "/images/groups/viral-beauty-3.png"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Face Serum 30ml",
+     "image": "/images/groups/viral-beauty-3.png"
+    }
+   ]
+  },
+  {
+   "title": "Best Seller",
+   "href": "https://www.herlan.com/product-tag/best-seller/",
+   "items": [
+    {
+     "alt": "Lily Whipped Shea Body Wash Fliptop – 250ml",
+     "image": "/images/groups/best-seller-1.jpg"
+    },
+    {
+     "alt": "Lily Whipped Shea Body Wash Fliptop – 250ml",
+     "image": "/images/groups/best-seller-1.jpg"
+    },
+    {
+     "alt": "Lily Advanced Anti-Hair fall Serum Oil – 200 ml",
+     "image": "/images/groups/best-seller-3.webp"
+    },
+    {
+     "alt": "Lily Advanced Anti-Hair fall Serum Oil – 200 ml",
+     "image": "/images/groups/best-seller-3.webp"
+    },
+    {
+     "alt": "Lily Serum Glow Soap Lemon Splash – 100 gm",
+     "image": "/images/groups/best-seller-5.jpg"
+    },
+    {
+     "alt": "Lily Serum Glow Soap Lemon Splash – 100 gm",
+     "image": "/images/groups/best-seller-5.jpg"
+    },
+    {
+     "alt": "Lily Serum Glow Soap French Rose – 100gm",
+     "image": "/images/groups/best-seller-7.jpg"
+    },
+    {
+     "alt": "Lily Serum Glow Soap French Rose – 100gm",
+     "image": "/images/groups/best-seller-7.jpg"
+    }
+   ]
+  },
+  {
+   "title": "Viral Beauty",
+   "href": "https://www.herlan.com/product-tag/viral-beauty/",
+   "items": [
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 200ml",
+     "image": "/images/groups/viral-beauty-1.webp"
+    },
+    {
+     "alt": "Lily Buttery Soft Nourishing Skin Lotion 200ml",
+     "image": "/images/groups/viral-beauty-1.webp"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Face Serum 30ml",
+     "image": "/images/groups/viral-beauty-3.png"
+    },
+    {
+     "alt": "Skin Mynt Vitamin C Brightening Face Serum 30ml",
+     "image": "/images/groups/viral-beauty-3.png"
+    },
+    {
+     "alt": "Lily Pineapple Lip Balm 4.5gm",
+     "image": "/images/groups/viral-beauty-5.webp"
+    },
+    {
+     "alt": "Lily Pineapple Lip Balm 4.5gm",
+     "image": "/images/groups/viral-beauty-5.webp"
+    },
+    {
+     "alt": "Lily Berry Lip Balm 4.5gm",
+     "image": "/images/groups/viral-beauty-7.webp"
+    },
+    {
+     "alt": "Lily Berry Lip Balm 4.5gm",
+     "image": "/images/groups/viral-beauty-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Damaged Hair Repair",
+   "href": "https://www.herlan.com/product-tag/damaged-hair-repair/",
+   "items": [
+    {
+     "alt": "Cavotin Breakage Therapy Hair Mask 200gm",
+     "image": "/images/groups/dandruff-solutions-1.webp"
+    },
+    {
+     "alt": "Cavotin Breakage Therapy Hair Mask 200gm",
+     "image": "/images/groups/dandruff-solutions-1.webp"
+    },
+    {
+     "alt": "Cavotin Breakage Therapy Shampoo 250 ml",
+     "image": "/images/groups/dandruff-solutions-3.webp"
+    },
+    {
+     "alt": "Cavotin Breakage Therapy Shampoo 250 ml",
+     "image": "/images/groups/dandruff-solutions-3.webp"
+    },
+    {
+     "alt": "Lily Silkore Silk & Shine Shampoo 1000ml",
+     "image": "/images/groups/dandruff-solutions-5.jpg"
+    },
+    {
+     "alt": "Lily Silkore Silk & Shine Shampoo 1000ml",
+     "image": "/images/groups/dandruff-solutions-5.jpg"
+    },
+    {
+     "alt": "Body N Beard Hair Fall Defense Shampoo 200ml",
+     "image": "/images/groups/dandruff-solutions-7.webp"
+    },
+    {
+     "alt": "Body N Beard Hair Fall Defense Shampoo 200ml",
+     "image": "/images/groups/dandruff-solutions-7.webp"
+    }
+   ]
+  },
+  {
+   "title": "Self-Care Essential",
+   "href": "https://www.herlan.com/product-tag/selfcare-essential/",
+   "items": [
+    {
+     "alt": "Nior Deep Clean Gel Face Wash Fresh Lemon 100ml",
+     "image": "/images/groups/gift-under-tk-500-1.webp"
+    },
+    {
+     "alt": "Nior Deep Clean Gel Face Wash Fresh Lemon 100ml",
+     "image": "/images/groups/gift-under-tk-500-1.webp"
+    },
+    {
+     "alt": "Lily Pomegranate Crush Body Wash 500ml",
+     "image": "/images/groups/self-care-essential-3.webp"
+    },
+    {
+     "alt": "Lily Pomegranate Crush Body Wash 500ml",
+     "image": "/images/groups/self-care-essential-3.webp"
+    },
+    {
+     "alt": "BOS Mystique Island Body Mist 150 ml",
+     "image": "/images/groups/self-care-essential-5.webp"
+    },
+    {
+     "alt": "BOS Mystique Island Body Mist 150 ml",
+     "image": "/images/groups/self-care-essential-5.webp"
+    },
+    {
+     "alt": "Dermo-U Acne Cream 50gm",
+     "image": "/images/groups/anti-acne-solutions-1.webp"
+    },
+    {
+     "alt": "Dermo-U Acne Cream 50gm",
+     "image": "/images/groups/anti-acne-solutions-1.webp"
+    }
+   ]
+  },
+  {
+   "title": "Best Haircare Routine",
+   "href": "https://www.herlan.com/product-tag/best-haircare-routine/",
+   "items": [
+    {
+     "alt": "Lily Advanced Hair Growth Serum Oil – 200 ml",
+     "image": "/images/groups/hair-fall-control-1.webp"
+    },
+    {
+     "alt": "Lily Advanced Hair Growth Serum Oil – 200 ml",
+     "image": "/images/groups/hair-fall-control-1.webp"
+    },
+    {
+     "alt": "Cavotin Breakage Therapy Hair Mask 200gm",
+     "image": "/images/groups/dandruff-solutions-1.webp"
+    },
+    {
+     "alt": "Cavotin Breakage Therapy Hair Mask 200gm",
+     "image": "/images/groups/dandruff-solutions-1.webp"
+    },
+    {
+     "alt": "Cavotin Breakage Therapy Shampoo 250 ml",
+     "image": "/images/groups/dandruff-solutions-3.webp"
+    },
+    {
+     "alt": "Cavotin Breakage Therapy Shampoo 250 ml",
+     "image": "/images/groups/dandruff-solutions-3.webp"
+    },
+    {
+     "alt": "Lily Silkore Silk & Shine Shampoo 1000ml",
+     "image": "/images/groups/dandruff-solutions-5.jpg"
+    },
+    {
+     "alt": "Lily Silkore Silk & Shine Shampoo 1000ml",
+     "image": "/images/groups/dandruff-solutions-5.jpg"
+    }
+   ]
+  },
+  {
+   "title": "Just Restocked",
+   "href": "https://www.herlan.com/product-tag/just-restocked/",
+   "items": [
+    {
+     "alt": "Lily Flawless Matt 3Way Setting Powder-Silken Beige",
+     "image": "/images/groups/just-restocked-1.webp"
+    },
+    {
+     "alt": "Lily Flawless Matt 3Way Setting Powder-Silken Beige",
+     "image": "/images/groups/just-restocked-1.webp"
+    },
+    {
+     "alt": "Flormar HD Weightless Matte Liquid Lipstick – 013 Perfect Bordeaux",
+     "image": "/images/groups/authentic-international-brand-5.jpg"
+    },
+    {
+     "alt": "Flormar HD Weightless Matte Liquid Lipstick – 013 Perfect Bordeaux",
+     "image": "/images/groups/authentic-international-brand-5.jpg"
+    },
+    {
+     "alt": "NIOR Your Best Skin Matte BB Cream – Pearl",
+     "image": "/images/groups/pore-care-3.webp"
+    },
+    {
+     "alt": "NIOR Your Best Skin Matte BB Cream – Pearl",
+     "image": "/images/groups/pore-care-3.webp"
+    },
+    {
+     "alt": "Lily Flawless Matt 3WayLiquid Serum Concealer-Fair Cool",
+     "image": "/images/groups/just-restocked-7.png"
+    },
+    {
+     "alt": "Lily Flawless Matt 3WayLiquid Serum Concealer-Fair Cool",
+     "image": "/images/groups/just-restocked-7.png"
+    }
+   ]
+  },
+  {
+   "title": "Herlan Top Picks",
+   "href": "https://www.herlan.com/product-tag/herlantoppick/",
+   "items": [
+    {
+     "alt": "Herlan Airy Matte Liquid Foundation -Warm-W009-Cotton",
+     "image": "/images/groups/herlan-top-picks-1.webp"
+    },
+    {
+     "alt": "Herlan Airy Matte Liquid Foundation -Warm-W009-Cotton",
+     "image": "/images/groups/herlan-top-picks-1.webp"
+    },
+    {
+     "alt": "Herlan Airy Matte Liquid Foundation -Cool-C003-Teakwood",
+     "image": "/images/groups/luxury-beauty-3.webp"
+    },
+    {
+     "alt": "Herlan Airy Matte Liquid Foundation -Cool-C003-Teakwood",
+     "image": "/images/groups/luxury-beauty-3.webp"
+    },
+    {
+     "alt": "Herlan Color Vibes Gel Liner Emerald Bay",
+     "image": "/images/groups/herlan-top-picks-5.webp"
+    },
+    {
+     "alt": "Herlan Color Vibes Gel Liner Emerald Bay",
+     "image": "/images/groups/herlan-top-picks-5.webp"
+    },
+    {
+     "alt": "Herlan Cushion Matte Lipstick Sunset Boulevard",
+     "image": "/images/groups/herlan-top-picks-7.png"
+    },
+    {
+     "alt": "Herlan Cushion Matte Lipstick Sunset Boulevard",
+     "image": "/images/groups/herlan-top-picks-7.png"
+    }
+   ]
+  }
+ ],
+ "brands": [
+  {
+   "slug": "nior",
+   "name": "Nior",
+   "logo": "/images/brands/nior.webp"
+  },
+  {
+   "slug": "siodil",
+   "name": "SIODIL",
+   "logo": "/images/brands/siodil.webp"
+  },
+  {
+   "slug": "siodil-daily",
+   "name": "SIODIL DAILY",
+   "logo": "/images/brands/siodil-daily.svg"
+  },
+  {
+   "slug": "dermo-u",
+   "name": "Dermo-U",
+   "logo": "/images/brands/dermo-u.webp"
+  },
+  {
+   "slug": "blaze-o-skin",
+   "name": "Blaze O’ Skin",
+   "logo": "/images/brands/blaze-o-skin.webp"
+  },
+  {
+   "slug": "max-beu-by-lily",
+   "name": "Max Beu",
+   "logo": "/images/brands/max-beu-by-lily.webp"
+  },
+  {
+   "slug": "lily",
+   "name": "Lily",
+   "logo": "/images/brands/lily.webp"
+  },
+  {
+   "slug": "cavotin",
+   "name": "Cavotin",
+   "logo": "/images/brands/cavotin.webp"
+  },
+  {
+   "slug": "herlan",
+   "name": "HERLAN",
+   "logo": "/images/brands/herlan.webp"
+  },
+  {
+   "slug": "skin-mynt",
+   "name": "Skin Mynt",
+   "logo": "/images/brands/skin-mynt.webp"
+  },
+  {
+   "slug": "body-n-beard",
+   "name": "Body N Beard",
+   "logo": "/images/brands/body-n-beard.png"
+  },
+  {
+   "slug": "glorin",
+   "name": "Glorin",
+   "logo": "/images/brands/glorin.png"
+  },
+  {
+   "slug": "d32",
+   "name": "D32",
+   "logo": "/images/brands/d32.webp"
+  },
+  {
+   "slug": "lily-essentials",
+   "name": "LILY Essentials",
+   "logo": "/images/brands/lily-essentials.png"
+  },
+  {
+   "slug": "little-one",
+   "name": "Little One",
+   "logo": "/images/brands/little-one.webp"
+  },
+  {
+   "slug": "streax",
+   "name": "Streax",
+   "logo": "/images/brands/streax.jpg"
+  },
+  {
+   "slug": "flormar",
+   "name": "Flormar",
+   "logo": "/images/brands/flormar.png"
+  },
+  {
+   "slug": "acnol",
+   "name": "Acnol",
+   "logo": "/images/brands/acnol.webp"
+  },
+  {
+   "slug": "tylox",
+   "name": "Tylox",
+   "logo": "/images/brands/tylox.webp"
+  },
+  {
+   "slug": "orix",
+   "name": "Orix",
+   "logo": "/images/brands/orix.webp"
+  },
+  {
+   "slug": "sunbit",
+   "name": "Sunbit",
+   "logo": "/images/brands/sunbit.webp"
+  },
+  {
+   "slug": "nirvana",
+   "name": "Nirvana",
+   "logo": "/images/brands/nirvana.jpg"
+  },
+  {
+   "slug": "orientica",
+   "name": "Orientica",
+   "logo": "/images/brands/orientica.jpg"
+  },
+  {
+   "slug": "groome",
+   "name": "Groome",
+   "logo": "/images/brands/groome.png"
+  }
+ ],
+ "promo": "Free Delivery on",
+ "paymentIcons": "/images/payments/footer-payment-icons.svg"
+}
